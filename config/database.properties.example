@@ -1,0 +1,11 @@
+# Cafe24h SQL Server connection template
+# Copy this file to "database.properties" in the same directory and adjust settings if needed.
+
+authentication=windows
+database=Cafe24hDB
+encrypt=true
+password=
+port=1433
+server=localhost
+trustServerCertificate=true
+username=

@@ -1,0 +1,33 @@
+# Compiled Java classes and build outputs
+bin/
+out/
+*.class
+
+# Local database configuration (contains local credentials)
+config/database.properties
+
+# Temporary files and logs
+*.log
+tmp/
+temp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Eclipse metadata and configurations
+.metadata/
+.recommenders/
+.settings/
+
+
+# VS Code configurations and history
+.vscode/
+
+# Claude agent configurations
+.claude/
+
+# Reports and documentation
+report/
+extracted_images/
